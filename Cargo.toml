@@ -4,5 +4,4 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-derive = "1.0.0"
 fake = "4.2.0"

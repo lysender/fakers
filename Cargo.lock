@@ -15,12 +15,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "baf1de4339761588bc0619e3cbc0120ee582ebb74b53b4efbf79117bd2da40fd"
 
 [[package]]
-name = "derive"
-version = "1.0.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "72e3ae26c830a573f2e231fc2475f71fce4705609097cb9523abfc4007caed0b"
-
-[[package]]
 name = "deunicode"
 version = "1.6.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -40,7 +34,6 @@ dependencies = [
 name = "fakers"
 version = "0.1.0"
 dependencies = [
- "derive",
  "fake",
 ]
 

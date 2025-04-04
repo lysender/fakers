@@ -10,5 +10,5 @@ fn main() {
         CatchPhrase().fake::<String>()
     );
 
-    println!("{title}\n{description}\n");
+    println!("{title}\n{description}");
 }
